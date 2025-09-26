@@ -39,4 +39,4 @@ We also report mean training/validation loss with standard errors across 5 folds
 - Future work: Topic modeling for trend discovery
 
 ---
-*Note: For more details please refer to the full presentation slides [(PDF included in this repository)]().*
+*Note: For more details please refer to the full presentation slides [(PDF included in this repository)](https://github.com/Manami108/fashion-image-captioning/blob/main/captioning-documentation.pdf).*
