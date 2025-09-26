@@ -38,3 +38,5 @@ We also report mean training/validation loss with standard errors across 5 folds
 - Limitation: Some fine-grained attributes remain under-described; future work will fuse image features and captions more tightly during topic modeling.
 - Future work: Topic modeling for trend discovery
 
+---
+*Note: For more details please refer to the full presentation slides [(PDF included in this repository)]().*
