@@ -1,5 +1,5 @@
 # Discovering Fashion Trends via Multimodal Image Captioning & Topic Modeling
-This work was done in 2024. 
+This work was done in July, 2024. 
 
 ## Overview
 Fashion trends shift quickly under social and cultural influences. This project forecasts and explains trends by (1) producing detailed fashion captions from images and (2) clustering those captions into coherent themes for analysis and visualization. Two captioning variants are implemented and compared: a baseline LSTM encoder–decoder and an attention-based LSTM that focuses on salient visual features.
